@@ -23,7 +23,7 @@ As the everyday reliance on portable mobile devices is increasing, new diseases 
 <p> 
   <i>Program flowchart</i>
   <br>
-  <img src = "https://github.com/aidinatt8/FYP_Gyroscope_with_headset/blob/main/Images/program_flowchart.jpg" width = 600/>
+  <img src = "https://github.com/aidinatt8/FYP_Gyroscope_with_headset/blob/main/Images/program_flowchart.jpg"/>
   </p>
   
 # Electornic design 
@@ -36,7 +36,8 @@ Below is the list of instructions on building this project prototype.
 - Transistor NPN BC337
 - Resistor 47ohm
 - Push button switch, breadboard, USB cable 
-
+<br> 
+Follow the figure below to connect your components. 
 <p> 
   <img src = "https://github.com/aidinatt8/FYP_Gyroscope_with_headset/blob/main/Images/circuit%20design.png" />
   <i>Circuit design diagram</i>
