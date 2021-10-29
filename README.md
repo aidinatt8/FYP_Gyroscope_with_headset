@@ -51,6 +51,7 @@ Follow the figure below to connect your components.
 1. Copy arduino code into your own sketch and connect to the device
 2. Download external libraries and place them into Arduino -> Libraries
 3. Debug and upload the sketch
+4. Check the program using Arduino Serial plotter 
 
 # Further development
 The project can be improved by connecting gyroscope to the built-in circuit inside headphones and accessing the headohone speakers to output warning signals. 
